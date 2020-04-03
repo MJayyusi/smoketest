@@ -10,4 +10,4 @@ There is two expected failures due to mismatch between actual results and api do
 
 See below!
 
-![Results](/resultsScreenshot.png)
+![Results](/resultsScreenshot1.png)
